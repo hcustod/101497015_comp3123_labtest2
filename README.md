@@ -2,6 +2,10 @@
 
 This is a React based weather application for COMP 3123 Lab Test 2. It displays current weather information for any city using the OpenWeatherMap API.
 
+![Default Screen; Pre-search](https://github.com/hcustod/101497015_comp3123_labtest2/blob/main/labss.jpeg?raw=true)
+
+
+
 ## Tech Stack
 
 - React (Create React App)
